@@ -1,7 +1,7 @@
 body{
   background-color:black;
   overflow:hidden;
-  background: url('/images/wood.png');
+  background: url('../images/wood.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
